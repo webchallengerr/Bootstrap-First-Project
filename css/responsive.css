@@ -1,0 +1,29 @@
+@media screen and (max-width:767px){
+  .service .text {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .gallery img{
+    margin-bottom: 20px;
+  }
+  .newletter input{
+    margin-bottom: 10px;
+  }
+  .whatdo .lapt{
+    margin-top: 30px;
+  }
+  .whatdo .hambal{
+    text-align: center;
+}
+  .pricing .card{
+    margin-bottom: 30px;
+}
+  .blogContent .card{
+    width: 75%;
+    margin: 30px auto;
+}
+  .contact .contentLeft{
+    margin-bottom: 20px;
+}
+
+}
